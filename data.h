@@ -1,3 +1,4 @@
+#include <stdio.h>
 #ifndef extern_
  #define extern_ extern
 #endif
